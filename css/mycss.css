@@ -1,0 +1,42 @@
+ * {
+  text-align: center;
+  box-sizing: border-box;
+ }
+.menu li {
+  list-style-type: none;
+  display: inline-block;
+  float: right;
+  width: 80px;
+}
+
+.space {
+  height: 100px;
+  margin: 20 auto;
+}
+
+ .form {
+  width: 80%;
+  margin: 0 auto;
+}
+
+
+
+}
+
+.row >div {
+  text-align: center;
+  background-color: skyblue;
+  padding: 0 0;
+  border: 1px solid white;
+
+}
+.container-fluid {
+  background-color: yellow;
+  
+  border: 1px solid black;
+  
+}
+
+.container {
+  background-color: pink;
+}

@@ -1,0 +1,19 @@
+.my-nav {
+  background: #000000
+}
+.my-nav ul {
+  margin: 10px 0;
+}
+
+body ,#about ,#my-work ,#contact { 
+  padding-top: 70px; 
+}
+
+.navbar-brand {
+  margin: 16px auto;
+  font-size: 30px;
+}
+
+.nav > li {
+  margin: auto 10px;
+}
